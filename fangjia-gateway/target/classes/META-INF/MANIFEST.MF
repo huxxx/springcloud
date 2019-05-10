@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: fangjia-gateway
+Implementation-Version: 1.0.0
+Built-By: 49103
+Implementation-Vendor-Id: com.cxytiandi
+Build-Jdk: 1.8.0_65
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+
